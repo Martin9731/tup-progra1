@@ -1,0 +1,8 @@
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\bin\Debug\Ejercitación unidad 2.exe.config
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\bin\Debug\Ejercitación unidad 2.exe
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\bin\Debug\Ejercitación unidad 2.pdb
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\obj\Debug\Ejercitación unidad 2.csproj.AssemblyReference.cache
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\obj\Debug\Ejercitación unidad 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\obj\Debug\Ejercitación unidad 2.csproj.CoreCompileInputs.cache
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\obj\Debug\Ejercitación unidad 2.exe
+C:\Users\m-ros\OneDrive\Escritorio\Proyecto Programación TUP I\Ejercitación unidad 2\obj\Debug\Ejercitación unidad 2.pdb
