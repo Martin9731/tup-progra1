@@ -1,0 +1,15 @@
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).exe.config
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).exe
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).pdb
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).exe
+C:\Users\Martin\Desktop\C#\Proyectos\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).pdb
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).exe.config
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).exe
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\bin\Debug\Auto con tanque (ejercicio).pdb
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).csproj.AssemblyReference.cache
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).csproj.SuggestedBindingRedirects.cache
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).csproj.CoreCompileInputs.cache
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).exe
+C:\Users\m-ros\OneDrive\Escritorio\Auto con tanque (ejercicio)\Auto con tanque (ejercicio)\obj\Debug\Auto con tanque (ejercicio).pdb
